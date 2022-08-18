@@ -23,13 +23,12 @@ e.g.,
 http://dmlab.kaist.ac.kr/~geonlee/1300_1500/201103/03/coms_mi_le1b_ir01_ea040ps_201103030800.png
 ```
 
-
 ### 임베딩 다운로드 (대용량 파일)
-모델 학습을 통해 얻은 임베딩은 다음 공유 링크로부터 다운로드 받은 후, 본 디렉토리에 업로드하세요.
+모델 학습을 통해 얻은 임베딩을 저장한 파일은 다음 공유 링크로부터 다운로드 받은 후, 본 디렉토리에 업로드하세요.
 
-* [emb_metric_6_noaug.pkl](https://drive.google.com/file/d/14r5mO_-TnPenn2-ISKlVbQhu4cb8vbBU/view?usp=sharing)
-* [contrastive_model_embeddings.pt](https://drive.google.com/file/d/1ZExk6cW1lTTo8mDt2k0ExDNdgsaLm-Ch/view?usp=sharing)
-* [autoencoder_embeddings.pkl](https://drive.google.com/file/d/1DgLWQu8qomvtCXwAMl7IRh2kyGXblkcx/view?usp=sharing)
+* [emb_metric_6_noaug.pkl](https://drive.google.com/file/d/14r5mO_-TnPenn2-ISKlVbQhu4cb8vbBU/view?usp=sharing) (273MB)
+* [contrastive_model_embeddings.pt](https://drive.google.com/file/d/1ZExk6cW1lTTo8mDt2k0ExDNdgsaLm-Ch/view?usp=sharing) (273MB)
+* [autoencoder_embeddings.pkl](https://drive.google.com/file/d/1DgLWQu8qomvtCXwAMl7IRh2kyGXblkcx/view?usp=sharing) (616MB)
 
 ### 샘플코드
 다음 샘플 코드를 통해 모델을 검증 및 평가할 수 있습니다.
